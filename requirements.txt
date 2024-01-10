@@ -1,0 +1,5 @@
+webdriver-manager==4.0.1
+selenium==4.16.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+click==8.1.7

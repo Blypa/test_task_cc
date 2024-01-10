@@ -1,0 +1,109 @@
+[
+    {
+        "title": "Abandonment",
+        "origin": null,
+        "definitions": [
+            {
+                "title": "1",
+                "description": " <b>:</b> the act of abandoning property or a right: as "
+            },
+            {
+                "title": "a",
+                "see_also link": "https://dictionary.findlaw.com/definition/dedication.html",
+                "see_also": "dedication",
+                "description": " <b>:</b> relinquishment by an inventor of the right to enforce a patent  "
+            },
+            {
+                "title": "b",
+                "description": " <b>:</b> an author's relinquishment to the public domain of his or her copyrighted work "
+            },
+            {
+                "title": "c",
+                "description": " <b>:</b> relinquishment of a trademark established by a failure to use the trademark and an intention never to resume use "
+            },
+            {
+                "title": "d",
+                "compare link": "https://dictionary.findlaw.com/definition/salvage.html",
+                "compare": "salvage",
+                "description": " <b>:</b> the act of an insured in surrendering all rights to damaged or lost property to an insurer as a total loss  "
+            },
+            {
+                "title": "e",
+                "description": " <b>:</b> relinquishment by a trustee in bankruptcy of interest in property in the bankruptcy estate often for a nominal sum "
+            },
+            {
+                "title": "2",
+                "description": " <b>:</b> the act of abandoning a person: as "
+            },
+            {
+                "title": "a",
+                "description": " <b>:</b> failure to have contact with a spouse that is intended to create a permanent separation "
+            },
+            {
+                "title": "b",
+                "description": " <b>:</b> failure to communicate with or provide financial support for one's child over a period of time that shows a purpose to forgo parental duties and rights "
+            },
+            {
+                "title": "3",
+                "description": " <b>:</b> the act of abandoning a contract "
+            },
+            {
+                "title": "4 a",
+                "description": " <b>:</b> the act of abandoning a course of action (as a crime) "
+            },
+            {
+                "title": "b",
+                "description": " <b>:</b> the affirmative defense (as recognized under the Model Penal Code) of voluntary withdrawal from the commission of a crime resulting from the actor's change of heart and not from intervening circumstances "
+            }
+        ],
+        "url": "https://dictionary.findlaw.com/definition/abandonment.html"
+    },
+    {
+        "title": "Battery",
+        "origin": "[Old French batterie beating, from battre to beat, from Latin battuere]",
+        "definitions": [
+            {
+                "title": "aggravated battery",
+                "description": " criminal battery that is accompanied by aggravating factors: as ",
+                "definitions": [
+                    {
+                        "title": "a",
+                        "description": " <b>:</b> criminal battery that causes or is intended to cause serious bodily injury esp. through the use of a dangerous weapon "
+                    },
+                    {
+                        "title": "b",
+                        "note": "Aggravated battery is usually classified as a felony.",
+                        "compare link": "https://dictionary.findlaw.com/definition/simple-battery.html",
+                        "compare": "simple battery",
+                        "description": " <b>:</b> criminal battery committed on a protected person (as a minor or a police officer)  in this entry <i> "
+                    }
+                ]
+            },
+            {
+                "title": "sex\u00b7u\u00b7al battery",
+                "description": " intentional and offensive sexual contact and esp. sexual intercourse with a person who has not given or (as in the case of a child) is incapable of giving consent ",
+                "definitions": [
+                    {
+                        "title": ":",
+                        "note": "This is a broad definition of the offense. The specific elements of this crime vary from state to state, and some states use more narrow definitions.",
+                        "see_also link": "https://dictionary.findlaw.com/definition/rape.html",
+                        "see_also": "rape",
+                        "description": " forced or coerced contact with the sexual parts of either the victim or the perpetrator  <i> "
+                    }
+                ]
+            },
+            {
+                "title": "simple battery",
+                "note": "Simple battery is usually classified as a misdemeanor.",
+                "compare link": "https://dictionary.findlaw.com/definition/aggravated-battery.html",
+                "compare": "aggravated battery",
+                "description": " criminal battery that is not accompanied by aggravating factors (as a dangerous weapon)  in this entry <i> ",
+                "definitions": []
+            }
+        ],
+        "compare link": "https://dictionary.findlaw.com/definition/assault.html",
+        "compare": "assault",
+        "description": " the crime or tort of intentionally or recklessly causing offensive physical contact or bodily harm (as by striking or by administering a poison or drug) that is not consented to by the victim  ",
+        "url": "https://dictionary.findlaw.com/definition/battery.html"
+    }
+]
